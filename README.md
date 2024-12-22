@@ -1,4 +1,4 @@
-# **Graph-Based Behavioral and Emotional Analysis System**
+# **Silent Witness: A Graph-Based Abuse Detection**
 
 ## **Team Name**: *nepalensis*  
 ## **Team Members**:  
